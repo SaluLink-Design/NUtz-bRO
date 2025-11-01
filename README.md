@@ -163,8 +163,10 @@ Based on Figma design: [SaluLink Chronic App](https://www.figma.com/design/mjnJb
 
 ## License
 
-Proprietary - SaluLink Medical Systems
+Proprietary - SaluLink Healthcare Solutions
 
-## Support
+##
 
-For issues or questions, contact the development team.
+Built with ❤️ for South African healthcare professionals
+
+
