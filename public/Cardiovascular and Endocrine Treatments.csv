@@ -1,0 +1,55 @@
+CHRONIC DISEASE LIST CONDITION,BASKET TYPE,PROCEDURE/TEST DESCRIPTION,PROCEDURE/TEST CODE,NUMBER OF PROCEDURES OR TESTS COVERED
+Cardiac Failure,Diagnostic,Electrocardiogram (ECG),3904,2
+Cardiac Failure,Diagnostic,Chest X-ray,3028,2
+Cardiac Failure,Diagnostic,Echocardiography,0085,1
+Cardiac Failure,Diagnostic,Full Blood Count,0021,2
+Cardiac Failure,Diagnostic,Serum Creatinine,0026,2
+Cardiac Failure,Diagnostic,Serum Electrolytes,0027,2
+Cardiac Failure,Diagnostic,BNP or NT-proBNP,3712,1
+Cardiac Failure,Ongoing Management,Electrocardiogram (ECG),3904,2
+Cardiac Failure,Ongoing Management,Full Blood Count,0021,2
+Cardiac Failure,Ongoing Management,Serum Creatinine,0026,4
+Cardiac Failure,Ongoing Management,Serum Electrolytes,0027,4
+Cardiac Failure,Ongoing Management,BNP or NT-proBNP,3712,2
+Hypertension,Diagnostic,Blood Pressure Monitoring,3900,4
+Hypertension,Diagnostic,Electrocardiogram (ECG),3904,1
+Hypertension,Diagnostic,Serum Creatinine,0026,2
+Hypertension,Diagnostic,Serum Electrolytes,0027,2
+Hypertension,Diagnostic,Fasting Glucose,0033,1
+Hypertension,Diagnostic,Lipid Profile,0035,1
+Hypertension,Ongoing Management,Blood Pressure Monitoring,3900,6
+Hypertension,Ongoing Management,Serum Creatinine,0026,2
+Hypertension,Ongoing Management,Serum Electrolytes,0027,2
+Hypertension,Ongoing Management,Fasting Glucose,0033,2
+Hypertension,Ongoing Management,Lipid Profile,0035,1
+Diabetes Insipidus,Diagnostic,Serum Sodium,0027,2
+Diabetes Insipidus,Diagnostic,Serum Osmolality,0040,2
+Diabetes Insipidus,Diagnostic,Urine Osmolality,0041,2
+Diabetes Insipidus,Diagnostic,Water Deprivation Test,3950,1
+Diabetes Insipidus,Ongoing Management,Serum Sodium,0027,4
+Diabetes Insipidus,Ongoing Management,Serum Osmolality,0040,2
+Diabetes Insipidus,Ongoing Management,Urine Osmolality,0041,2
+Diabetes Mellitus Type 1,Diagnostic,Fasting Glucose,0033,2
+Diabetes Mellitus Type 1,Diagnostic,HbA1c,0062,2
+Diabetes Mellitus Type 1,Diagnostic,C-Peptide,0068,1
+Diabetes Mellitus Type 1,Diagnostic,Serum Creatinine,0026,2
+Diabetes Mellitus Type 1,Diagnostic,Lipid Profile,0035,1
+Diabetes Mellitus Type 1,Diagnostic,Urinalysis,0050,2
+Diabetes Mellitus Type 1,Ongoing Management,HbA1c,0062,4
+Diabetes Mellitus Type 1,Ongoing Management,Fasting Glucose,0033,4
+Diabetes Mellitus Type 1,Ongoing Management,Serum Creatinine,0026,2
+Diabetes Mellitus Type 1,Ongoing Management,Lipid Profile,0035,2
+Diabetes Mellitus Type 1,Ongoing Management,Urinalysis,0050,2
+Diabetes Mellitus Type 1,Ongoing Management,Retinal Screening,0090,1
+Diabetes Mellitus Type 2,Diagnostic,Fasting Glucose,0033,2
+Diabetes Mellitus Type 2,Diagnostic,HbA1c,0062,2
+Diabetes Mellitus Type 2,Diagnostic,Serum Creatinine,0026,2
+Diabetes Mellitus Type 2,Diagnostic,Lipid Profile,0035,1
+Diabetes Mellitus Type 2,Diagnostic,Urinalysis,0050,2
+Diabetes Mellitus Type 2,Ongoing Management,HbA1c,0062,4
+Diabetes Mellitus Type 2,Ongoing Management,Fasting Glucose,0033,4
+Diabetes Mellitus Type 2,Ongoing Management,Serum Creatinine,0026,2
+Diabetes Mellitus Type 2,Ongoing Management,Lipid Profile,0035,2
+Diabetes Mellitus Type 2,Ongoing Management,Urinalysis,0050,2
+Diabetes Mellitus Type 2,Ongoing Management,Retinal Screening,0090,1
+
